@@ -1,6 +1,6 @@
 <h1>Manual de Usuario - Español</h1>
 Este manual proporciona instrucciones detalladas para la instalación y uso del plugin de vídeo desarrollado por el equipo de Base4. Este plugin permite a la plataforma OJS ser independiente de servicios de terceros al integrar su propio reproductor de vídeo, facilitando la visualización de contenido multimedia.
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJuZDdjMnp4NGU5NGQzN2Y5cjhqcmdhcmhqeGRnOTcwaWc3OW94cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6MbbwX2g2GA4MUus/giphy.gif" width="200px">
+
 <h2>Requisitos del Sistema</h2>
 Versión de OJS: 3.3.0 – 18
 <h2>Instalación</h2>
