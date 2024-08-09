@@ -3,7 +3,7 @@
 This manual provides detailed instructions for installing and using the video wplugin developed by the Base4 team. This plugin allows the OJS platform to be independent of third-party services by integrating its own video player, facilitating the viewing of multimedia content.
 
 <h2>System Requirements</h2>
-OJS version: 3.3.0 – 18
+OJS version: 3.3.0
 <h2>Installation</h2>
 1. Download the Plugin:
 <ul type="circle">
